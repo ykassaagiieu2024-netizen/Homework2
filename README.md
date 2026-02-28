@@ -6,3 +6,8 @@ This program provides with the basics for calculating your net salary given your
 - If the gross is more than 4000, then the income tax is 18%
 - If the gross is less than 2000, every child gets you a tax cut of 1%
 - If the gross is more than 2000, every child gets you a tax cut of 0.5%
+
+
+## Fun Fact 
+
+In a famous Scottish dictionary project, researchers recorded **421 different words related to “snow”**,  proving that if you live somewhere cold enough, you don’t just *see* snow… you start naming every version of it.
